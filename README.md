@@ -15,7 +15,7 @@
 
 | ตำแหน่งไฟล์ | คำอธิบาย |
 | --- | --- |
-| `data/raw/Shopping Trends And Customer Behaviour Dataset.csv` | ไฟล์ตามที่ดาวน์โหลดมาไม่มีข้อมูลศูนย์หาย มี 3,900 แถว 18 คอลัมน์ (รวมคอลัมน์ Timestamp ในไฟล์ที่ตรวจ) |
+| `data/raw/Shopping Trends And Customer Behaviour Dataset.csv` | ไฟล์ตามที่ดาวน์โหลดมาไม่มีข้อมูลศูนย์หาย มี 3,900 แถว 19 คอลัมน์ (รวมคอลัมน์ Timestamp ในไฟล์ที่ตรวจ) |
 
 
 
@@ -46,7 +46,7 @@
 | `frequency_of_purchases` | Frequency of Purchases | ข้อความ | ความถี่ในการสั่งซื้อสินค้า ได้แก่ Fortnightly, Weekly, Annually, Quarterly, Bi-Weekly, Monthly และ Every 3 Months| 0 |
 
 **หมายเหตุ**
-- จจำนวนค่าว่าง (Missing Values) นับจากข้อมูลหลังทำความสะอาดแล้ว จำนวน 3,900 แถว พบว่าไม่มีค่าว่างอยู่ในชุดข้อมูลเลย (Missing Values = 0)
+- จำนวนค่าว่าง (Missing Values) นับจากข้อมูลหลังทำความสะอาดแล้ว จำนวน 3,900 แถว พบว่าไม่มีค่าว่างอยู่ในชุดข้อมูลเลย (Missing Values = 0)
 
 
 
